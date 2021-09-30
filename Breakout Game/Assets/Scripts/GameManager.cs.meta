@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a059a8dcc17536442a10c0449f8595c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - youWon: {instanceID: 0}
+  - bricksPrefab: {instanceID: 0}
+  - paddlePrefab: {fileID: 8899256747192109031, guid: a72df437cf4d2954cb140e9cd22f8212,
+      type: 3}
+  - deathParticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
